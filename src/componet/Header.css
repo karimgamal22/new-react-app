@@ -1,0 +1,18 @@
+.title {
+    color: #224f61;
+    font-family: Almarai;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 64px;
+   position: relative;
+
+}
+
+.underline {
+    height: 1px;
+    width: 200px;
+    border-radius: 10px;
+    border: 2px solid #b45b35;
+
+}
